@@ -1,0 +1,15 @@
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\bin\Debug\net7.0\FinalProject.exe
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\bin\Debug\net7.0\FinalProject.deps.json
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\bin\Debug\net7.0\FinalProject.runtimeconfig.json
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\bin\Debug\net7.0\FinalProject.dll
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\bin\Debug\net7.0\FinalProject.pdb
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.csproj.AssemblyReference.cache
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.AssemblyInfoInputs.cache
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.AssemblyInfo.cs
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.dll
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\refint\FinalProject.dll
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.pdb
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\FinalProject.genruntimeconfig.cache
+C:\School Files\Winter 2023 Semester\CSE 210 Programming With Classes\.Net\CSE-210-main\final\FinalProject\obj\Debug\net7.0\ref\FinalProject.dll
